@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by PcbNew date = Mon 17 Aug 2015 05:28:32 PM CST
+
+BeginCmp
+TimeStamp = /53FF05BE;
+Reference = J1;
+ValeurCmp = mini-PCIe;
+IdModule  = miniPCIeConn;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D1A6E9;
+Reference = MOUNTING_HOLE_1;
+ValeurCmp = CONN_1;
+IdModule  = MINI_PCIE_MOUNTING_HOLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D1A6D8;
+Reference = MOUNTING_HOLE_2;
+ValeurCmp = CONN_1;
+IdModule  = MINI_PCIE_MOUNTING_HOLE;
+EndCmp
+
+EndListe
